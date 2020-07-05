@@ -14,12 +14,12 @@ file with the values of <i>(x,y,z)</i> positions and the magnitude of luminosity
 
 The <b>02_Features_Visualization.ipynb</b> notebook allows visually to explore the correlations between the bsk-features.
 
-<img src="./figures/features_vialization.png" width="400" height="400">
+<img src="./figures/feature_correlations.png" width="400" height="400">
 
 The <b>03_Model_Evaluation.ipynb</b> notebook evaluates our trained model computing the confusion matrix and the features importance. It is an example where we know the environment.
 
-<img src="./figures/evaluation.png" alt="Evaluation of the model" width="500" height="500">
+<img src="./figures/evaluation.png" alt="Evaluation of the model" width="1000" height="500">
 
 The <b>04_Model.ipynb</b> notebook run our trained model and compute the environments of a set of test galaxies. The script also plots the environments of the cosmic web founded.
 
-<img src="./figuresresult.png" alt="Cosmic Web classification founded by the model" width="500" height="500">
+<img src="./figures/result.png" alt="Cosmic Web classification founded by the model" width="500" height="500">
