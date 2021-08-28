@@ -31,3 +31,24 @@ The <b>04_Model.ipynb</b> notebook run our trained model and compute the environ
 <p align="center">
 <img src="./figures/result.png" alt="Cosmic Web classification founded by the model" width="500" height="500">
 </p>
+
+
+## Notes
+The `requirements.txt` file lists all Python libraries that you need to run the notebooks, they will be installed using:
+
+```
+pip install -r requirements.txt
+```
+
+## Cite
+
+Please cite our paper if you use this code in your own work:
+
+```
+@article{suarez2021bsk,
+  title={The four cosmic tidal web elements from the $\beta$-skeleton},
+  author={Su\'arez-P\'erez, John F. and Camargo, Yeimy and Li, Xiao-Dong and Forero-Romero, Jaime E.},
+  journal={arXiv preprint arXiv:2108.10351},
+  year={2021}
+}
+```
